@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Qarr👋😄
+
+- 🔭 I’m currently working on my portfolio website and an API to get the best scrabble move
+- 🌱 I’m currently learning about APIs and databases
+- 👯 I’m looking to collaborate on Flutter projects of any kind
+- 🤔 I’m looking for help with Flutter layouts and UI
+- 💬 Ask me about anything
+- 📫 How to reach me: +2347016307908, +2348116603879, thecoder.co@gmail.com, idunnu.ab@gmail.com, https://twitter.com/qarr__
+- 😄 Pronouns: Any🌚
+- ⚡ Fun fact: I really like bread!!
+
+
 
 <!--
 **thecoder-co/thecoder-co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
