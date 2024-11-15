@@ -1,6 +1,6 @@
 ### Hi there, I'm Qarr👋😄
 
-- 🔭 I’m currently working on my (portfolio website and an API to get the best scrabble move and the million dollar project😈😈) nahhh, gigs choke😪
+- 🔭 I’m currently working... ...😪
 - 🌱 I’m currently learning about APIs and databases
 - 👯 I’m looking to collaborate on Flutter projects of any kind
 - 🤔 I’m looking for help with Flutter layouts and UI
